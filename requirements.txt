@@ -1,7 +1,6 @@
 streamlit>=1.38.0
 pymodbus>=3.6.0
+plotly>=5.0
 pandas
-plotly
 numpy
-streamlit-autorefresh>=0.0.1     # Grafik ve veri yenileme için çok işe yarar
-psutil                           # Opsiyonel: sistem bilgisi vs.
+streamlit-autorefresh>=0.0.1
